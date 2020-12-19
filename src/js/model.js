@@ -2,7 +2,7 @@ import {
     messageOutput,
     hangman,
     userName
-} from "./View.js";
+} from "./view.js";
 
 export let
     playerInit = document.getElementById("playerInit"),
