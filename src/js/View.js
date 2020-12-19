@@ -15,7 +15,7 @@ import {
     listGamesDb,
     replayGameDb,
     gameTableTitle
-} from './model.js';
+} from './Model.js';
 
 export let userName;
 

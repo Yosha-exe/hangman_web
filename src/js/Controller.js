@@ -4,7 +4,7 @@ import {
     showGameOutput,
     replayGame,
     showGames
-} from './view.js';
+} from './View.js';
 
 import {
     nextInfo,
@@ -14,7 +14,7 @@ import {
     checkLetter,
     replayBtn,
     listGames
-} from "./model.js";
+} from "./Model.js";
 
 startGame();
 
